@@ -112,8 +112,7 @@
         "ext-zip": "*",
         "ext-json": "*",
         "ext-xml": "*",
-        "phpoffice/math": "^0.3",
-        "another-vendor/package": "1.*"
+        "phpoffice/math": "^0.3"
     },
     "require-dev": {
         "ext-libxml": "*",
